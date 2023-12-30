@@ -3,5 +3,5 @@ How to use:
 <ol>
   <li>Open Minecraft ***FIRST***</li>
   <li>Open the Fullbright exe</li>
-</ol><br>
+</ol>
 Enjoy fullbright!

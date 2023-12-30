@@ -4,4 +4,7 @@ How to use:
   <li>Open Minecraft ***FIRST***</li>
   <li>Open the Fullbright exe</li>
 </ol>
-Enjoy fullbright!
+
+---
+
+Enjoy Fullbright!
